@@ -1,3 +1,63 @@
+# Orbis
+
+_TODO: badges_
+
+A point-and-click geography game engine driven by an amalgam of JSON & SVG.
+
+Reinventing the wheel may often be a poor choice, although in the case of this project, its purpose is for its aspiring author to apply new learning and gain experience relevant to the web development field, mainly:
+
+* [React](https://facebook.github.io/react/)
+* [Redux](http://redux.js.org/)
+* Github: [Pages](https://pages.github.com/), [Badges](http://shields.io/), [Flavoured Markdown](https://guides.github.com/features/mastering-markdown/)
+* Unit Testing: [Mocha](https://mochajs.org/), [Chai](http://chaijs.com/)
+
+## Table of Contents
+
+1. [Demo](#demo)
+1. [Requirements](#requirements)
+1. [Todo](#todo)
+1. [Reflections](#reflections)
+1. [Thank You](#thank-you)
+
+
+### Demo
+_TODO_
+
+### Requirements
+* node `^4.5.0`
+* yarn `^0.17.0` or npm `^3.0.0`
+
+### Todo
+_TODO_
+
+### Reflections
+_TODO_
+
+### Thank You
+
+* [Dave Zuko](https://github.com/davezuko/react-redux-starter-kit) - For creating the boilerplate on which this project is based.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# TODO: Remove starter kit readme.
+
 # React Redux Starter Kit
 
 [![Join the chat at https://gitter.im/davezuko/react-redux-starter-kit](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/davezuko/react-redux-starter-kit?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
